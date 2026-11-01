@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-01",
+  "automated_tests": 20,
+  "tests": "passed",
+  "typecheck": "passed",
+  "format": "passed",
+  "production_build": "passed",
+  "local_responsive_widths": [
+    375,
+    753
+  ],
+  "horizontal_overflow": "none after fixes",
+  "public_smoke": "passed",
+  "public_browser": "calculation, save, reread, sharing, separate-tab read without editor token, real file download",
+  "export_sha256": "f7adda8b95cdce63e4d99c56f64885d658ead9d21adc47fe45902671452e74c2",
+  "deployed_application_sha": "a48be4e8c8916d47d56eeba0efa8faa27ee329c5",
+  "demo": "https://caustica-gustapaz.starrylinen.chatgpt.site"
+}
