@@ -51,3 +51,13 @@ frontend/generated/
 !.env.example
 frontend/frontend/
 frontend/components/components.d.ts
+
+# Local secrets and signing material
+.env*
+!.env.example
+.dev.vars*
+*.keystore
+*.p12
+*.pfx
+*.pem
+frontend/.stencil/
