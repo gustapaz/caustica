@@ -1,0 +1,19 @@
+{
+  "assets": [
+    {
+      "path": "public/media/prism.webp",
+      "source": "https://www.pexels.com/photo/optical-glass-triangular-prism-3845162/",
+      "download_url": "https://images.pexels.com/photos/3845162/pexels-photo-3845162.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "author": "Design Bits",
+      "license": "Pexels License",
+      "license_url": "https://www.pexels.com/license/",
+      "verified_at": "2026-11-01T02:55:24.553734+00:00",
+      "sha256": "872c180d203d01944b26c95aa8dc96ce8f807a44e1ac1c482458cd3b824c9f45",
+      "source_sha256": "24c0637051d9209088c8fe82fb21f9ce049f06bace5977a649c79884f75be73a",
+      "bytes": 34576,
+      "width": 1400,
+      "height": 1050,
+      "changes": "EXIF orientation applied; RGB; resized within 1400x1800 without crop; WebP quality 84; EXIF removed."
+    }
+  ]
+}
